@@ -1,0 +1,13 @@
+
+-------------------------------------------------------------------------
+
+* A server for hosting java web apps
+* Free & Open Source
+* Supports Java Technologies
+	* Java Servlet
+	* JSP - Java Server Page
+	* Java Expression Language 
+	* Java WebSocket
+* Also called servlet container
+* Above Java 1.8+
+* 8080
